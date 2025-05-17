@@ -6,7 +6,7 @@
 
 **i know some bit of networking (mostly with stuff like mirror, fishnet, photon, basic udp and tcp sockets!) [![owo](https://cdn.discordapp.com/emojis/1163729132908187718.webp?size=64&name=Hehe%7E2)]**
 
-**i use some thing blender or smth icl ts pmo**
+**i use some thing blender or smth icl ts pmo**[![sigma](https://images-ext-1.discordapp.net/external/KVhKdtnAwb1d8QpcV0UktDrglWUbQiJA3PhfWgZ86Zw/%3Fsize%3D64%26name%3DSigma/https/cdn.discordapp.com/emojis/1163824724812505212.webp?format=webp&width=72&height=72)]
 
 [![stuff](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
 
