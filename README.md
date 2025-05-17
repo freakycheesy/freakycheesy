@@ -1,4 +1,14 @@
-## Hi there 👋
+## sup nerds
+
+**uh i do stuff with unity, godot, c# .net etc! [![B)](https://cdn.discordapp.com/emojis/1163725795265617920.webp?size=64&name=Cool)]**
+
+[![stuff](https://skillicons.dev/icons?i=unity,godot,cs,dotnet,html,css,js)](https://skillicons.dev)
+
+**i know some bit of networking (mostly with stuff like mirror, fishnet, photon, basic udp and tcp sockets!) [![owo](https://cdn.discordapp.com/emojis/1163729132908187718.webp?size=64&name=Hehe%7E2)]**
+
+**i use some thing blender or smth icl ts pmo**
+
+[![stuff](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
 
 <!--
 **freakycheesy/freakycheesy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
