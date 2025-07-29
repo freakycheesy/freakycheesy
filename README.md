@@ -1,11 +1,11 @@
 # sup nerds
-## Developer of FishnetVR, and CheesyScripting
+## Developer of something
 
 **uh i do stuff with unity, godot, c# .net etc! [![B)](https://cdn.discordapp.com/emojis/1163725795265617920.webp?size=64&name=Cool)]**
 
 [![stuff](https://skillicons.dev/icons?i=unity,godot,cs,dotnet,html,css,js)](https://skillicons.dev)
 
-**i know some bit of networking (mostly with stuff like mirror) [![owo](https://cdn.discordapp.com/emojis/1163729132908187718.webp?size=64&name=Hehe%7E2)]**
+**i made multiplayer games and stuff (Mirror and fishnet) [![owo](https://cdn.discordapp.com/emojis/1163729132908187718.webp?size=64&name=Hehe%7E2)]**
 
 **i use some thing blender or smth icl ts pmo**[![sigma](https://images-ext-1.discordapp.net/external/KVhKdtnAwb1d8QpcV0UktDrglWUbQiJA3PhfWgZ86Zw/%3Fsize%3D64%26name%3DSigma/https/cdn.discordapp.com/emojis/1163824724812505212.webp?format=webp&width=72&height=72)]
 
