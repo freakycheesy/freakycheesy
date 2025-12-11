@@ -5,7 +5,7 @@
 
 [![stuff](https://skillicons.dev/icons?i=unity,godot,cs,dotnet,html,css,js)](https://skillicons.dev)
 
-**i made multiplayer games and stuff (Mirror, Lidgren, Riptide) [![owo](https://cdn.discordapp.com/emojis/1163729132908187718.webp?size=64&name=Hehe%7E2)]**
+**i made multiplayer games and stuff (Mirror, Riptide) [![owo](https://cdn.discordapp.com/emojis/1163729132908187718.webp?size=64&name=Hehe%7E2)]**
 
 **i use some thing blender or smth icl ts pmo**[![sigma](https://images-ext-1.discordapp.net/external/KVhKdtnAwb1d8QpcV0UktDrglWUbQiJA3PhfWgZ86Zw/%3Fsize%3D64%26name%3DSigma/https/cdn.discordapp.com/emojis/1163824724812505212.webp?format=webp&width=72&height=72)]
 
